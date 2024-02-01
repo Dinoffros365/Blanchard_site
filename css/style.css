@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/opensans-bold-webfont.woff2') format('woff2'),
-         url('/fonts/opensans-bold-webfont.woff') format('woff');
+    src: url('../fonts/opensans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/opensans-semibold-webfont.woff2') format('woff2'),
-         url('/fonts/opensans-semibold-webfont.woff') format('woff');
+    src: url('../fonts/opensans-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-semibold-webfont.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/opensans-regular-webfont.woff2') format('woff2'),
-         url('/fonts/opensans-regular-webfont.woff') format('woff');
+    src: url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,8 +40,8 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/opensans-light-webfont.woff2') format('woff2'),
-         url('/fonts/opensans-light-webfont.woff') format('woff');
+    src: url('../fonts/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-light-webfont.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 
@@ -588,64 +588,64 @@ img {
 
 
 [data-btn-value="1"]{
-    background-image: url(/img/Rectangle57.jpg);
+    background-image: url(../img/Rectangle57.jpg);
 }
 [data-btn-value="2"]{
-    background-image: url(/img/Rectangle58.jpg);
+    background-image: url(../img/Rectangle58.jpg);
 }
 [data-btn-value="3"]{
-    background-image: url(/img/Rectangle59.jpg);
+    background-image: url(../img/Rectangle59.jpg);
 }
 [data-btn-value="4"]{
-    background-image: url(/img/Rectangle60.jpg);
+    background-image: url(../img/Rectangle60.jpg);
 }
 [data-btn-value="5"]{
-    background-image: url(/img/Rectangle61.jpg);
+    background-image: url(../img/Rectangle61.jpg);
 }
 [data-btn-value="6"]{
-    background-image: url(/img/Rectangle62.jpg);
+    background-image: url(../img/Rectangle62.jpg);
 }
 [data-btn-value="7"]{
-    background-image: url(/img/Rectangle63.jpg);
+    background-image: url(../img/Rectangle63.jpg);
 }
 [data-btn-value="8"]{
-    background-image: url(/img/Rectangle64.jpg);
+    background-image: url(../img/Rectangle64.jpg);
 }
 [data-btn-value="9"]{
-    background-image: url(/img/Rectangle65.jpg);
+    background-image: url(../img/Rectangle65.jpg);
 }
 [data-btn-value="10"]{
-    background-image: url(/img/Rectangle66.jpg);
+    background-image: url(../img/Rectangle66.jpg);
 }
 [data-btn-value="11"]{
-    background-image: url(/img/Rectangle67.jpg);
+    background-image: url(../img/Rectangle67.jpg);
 }
 [data-btn-value="12"]{
-    background-image: url(/img/Rectangle68.jpg);
+    background-image: url(../img/Rectangle68.jpg);
 }
 [data-btn-value="13"]{
-    background-image: url(/img/Rectangle69.jpg);
+    background-image: url(../img/Rectangle69.jpg);
 }
 [data-btn-value="14"]{
-    background-image: url(/img/Rectangle70.jpg);
+    background-image: url(../img/Rectangle70.jpg);
 }
 [data-btn-value="15"]{
-    background-image: url(/img/Rectangle71.jpg);
+    background-image: url(../img/Rectangle71.jpg);
 }
 [data-btn-value="16"]{
-    background-image: url(/img/Rectangle72.jpg);
+    background-image: url(../img/Rectangle72.jpg);
 }
 [data-btn-value="17"]{
-    background-image: url(/img/Rectangle73.jpg);
+    background-image: url(../img/Rectangle73.jpg);
 }
 [data-btn-value="18"]{
-    background-image: url(/img/Rectangle74.jpg);
+    background-image: url(../img/Rectangle74.jpg);
 }
 [data-btn-value="19"]{
-    background-image: url(/img/Rectangle75.jpg);
+    background-image: url(../img/Rectangle75.jpg);
 }
 [data-btn-value="20"]{
-    background-image: url(/img/Rectangle76.jpg);
+    background-image: url(../img/Rectangle76.jpg);
 }
 
 .simplebar-scrollbar::before {
@@ -876,7 +876,7 @@ img {
 
     width: 100vw;
 
-    background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 3\ \(1\).jpg);
+    background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash311.jpg);
     background-size: cover;
 
     z-index: -10;
@@ -3474,28 +3474,28 @@ img {
             opacity: 0;
         }
         1%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 4\ \(2\).jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 4\ \(2\).jpg);
             opacity: 1;
         }
         30%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 5\ \(2\).jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 5\ \(2\).jpg);
             opacity: 1;
         }
         45%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 6.jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 6.jpg);
             opacity: 1;
         }
         60%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 4\ \(2\).jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 4\ \(2\).jpg);
             opacity: 1;
         }
         75%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 5\ \(2\).jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 5\ \(2\).jpg);
             opacity: 1;
         }
 
         99%{
-            background-image: url(/img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 6.jpg);
+            background-image: url(../img/birmingham-museums-trust-MK_98NuC4-4-unsplash\ 6.jpg);
             opacity: 1;
         }
         100%{
